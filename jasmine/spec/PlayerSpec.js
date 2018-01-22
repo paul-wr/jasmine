@@ -56,3 +56,12 @@ describe("Player", function() {
     });
   });
 });
+
+
+describe("name test", function(){
+	var name = "Ted";
+
+	it("Names should be equal", function(){
+		expect(name).toEqual("Ted");
+	});
+});
