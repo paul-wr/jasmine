@@ -1,3 +1,3 @@
-function sayHello() {
-	return "Hello!";
+function hello() {
+	return "Hello Skillsoft!";
 }
